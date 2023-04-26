@@ -54,7 +54,7 @@ const Home = () => {
                 </h1>
                 <h2> Sound Designer | Musician | Enginneer </h2>
                 <p>Check out my Demo Reel Video, better enjoyed with headphones and fullscreen mode.</p>
-                <Link to="/gherini-sound/contact" className='flat-button'>CONTACT ME</Link>
+                <Link to="/contact" className='flat-button'>CONTACT ME</Link>
             </div>
             <div className='demo-reel'>
                 <iframe class="iframe" width="800" height="480"  src="https://www.youtube.com/embed/A9XOqmbRS-o"  title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen>
