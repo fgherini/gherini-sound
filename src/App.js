@@ -11,8 +11,8 @@ function App() {
       <Routes>
         <Route path='/gherini-sound' element={<Layout />}>
           <Route index element={<Home />}></Route>
-          <Route path="gherini-sound/about" element={<About />} />
-          <Route path="gherini-sound/contact" element={<Contact />} />
+          <Route path="/gherini-sound/about" element={<About />} />
+          <Route path="/gherini-sound/contact" element={<Contact />} />
         </Route>
       </Routes>
     </>
