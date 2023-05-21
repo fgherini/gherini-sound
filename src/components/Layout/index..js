@@ -11,7 +11,7 @@ const Layout = () => {
             <Outlet />
             <footer className='footer'>
                 <span>
-                Build and coded with 💛 by 
+                Built and coded with 💛 by 
                 <a href="https://github.com/eliseflaneuse" target="_blank" rel="noreferrer"> Elise Flaneuse </a>
                 / @ 2023
                 </span>

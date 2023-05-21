@@ -45,9 +45,8 @@ const Contact = () => {
                         />
                     </h1>
                     <p>
-                        I am interested in freelance opportunities - especially on ambitious
-                        or large projects. However, if you have any other requests or
-                        questions, don't hesitate to contact me using below form either.
+                    Hello there! Don't hesitate to contact me using the form below or by e-mail. I'm always thrilled at the opportunity to talk about games, sound and music!
+
                     </p>
                 
 

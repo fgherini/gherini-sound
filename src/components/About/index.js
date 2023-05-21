@@ -26,9 +26,23 @@ const About = () => {
                     idx={15}
                     />
                 </h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce egestas purus at tincidunt vehicula. Nullam mauris risus, molestie in arcu sagittis, pretium accumsan tortor. Nunc a iaculis nulla. Donec cursus nunc et ante suscipit porta. Integer non nibh a augue imperdiet commodo. Duis non lorem eu sem condimentum interdum feugiat eget magna. Cras sem diam, pretium congue erat varius, tincidunt dictum sapien. In eget erat vitae eros accumsan sodales eget eu risus. Fusce ut eleifend mauris. Nam maximus nisi tellus, sed consectetur ipsum tempus vel.</p>
-                <p>Integer felis nulla, pretium a nulla nec, aliquam viverra magna. Proin laoreet, velit quis viverra venenatis, enim lacus ultrices odio, vitae hendrerit nisi sapien ut velit. Nulla nibh metus, convallis vel laoreet a, posuere sit amet ipsum. Phasellus fermentum, tortor et sollicitudin dapibus, mauris orci consectetur velit, sit amet bibendum erat mauris non sapien. Nullam non sodales sem, at lacinia dolor. Fusce non quam sapien. Cras ac eleifend enim.</p>
-                <p>Praesent convallis nisi sed ligula pretium, nec fringilla metus lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer pretium justo eget urna semper, facilisis pulvinar arcu tincidunt. Curabitur pulvinar lobortis magna volutpat posuere. Vivamus nibh urna, porta sit amet dolor et, luctus accumsan turpis. Nulla tellus dui, pretium nec elit et, sollicitudin semper lectus. Nam porttitor nisi nec magna posuere, eu viverra diam venenatis.</p>
+                                <p>Hey there! My name is Fernando Gherini and I'm a Sound Designer and
+                Music Composer from Brazil with a passion for crafting immersive sound
+                experiences that transport players to new worlds.
+                My sound journey began over 20 years ago, when I've first fell in love with
+                music and sound listening to Led Zeppelin's second album at my family's
+                record player. Since then, I've played different instruments, worked with a wide
+                range of musical genres, got a Bachelor's Degree in Music Composition and I've
+                been dedicating the last 6 years to refining my skills in designing sounds for
+                games, visual productions and electroacoustic music.
+                I'm skilled in using Wwise and FMOD to implement sound and music in
+                Unity and Unreal Engine, and I've worked on a wide variety of game genres -
+                from first-person shooters to puzzle games.
+                When I'm not creating sounds and music, you can usually find me
+                spending quality time with my feline friends, experimenting with new recipes in
+                the kitchen, or hiking to recharge my creative batteries.
+                Feel free to check my Demo Reels and don't hesitate to contact me! I'm
+                always thrilled at the opportunity to talk about games, sound and music!</p>
             </div>
 
             <div className="stage-cube-cont">

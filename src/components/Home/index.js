@@ -30,7 +30,7 @@ const Home = () => {
     useEffect(() => {
         setTimeout(() => {
             return setLetterClass('text-animate-hover')
-        }, 4000)
+        }, 5000)
       }, [])
       
 
@@ -52,8 +52,8 @@ const Home = () => {
                 idx={31}
                 />
                 </h1>
-                <h2> Sound Designer | Musician | Enginneer </h2>
-                <p>Check out my Demo Reel Video, better enjoyed with headphones and fullscreen mode.</p>
+                <h2> Sound Designer | Composer | Audio Engineer </h2>
+                <p>Check out my Demo Reel, better enjoyed with headphones and fullscreen mode.</p>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
             </div>
             <div className='demo-reel'>
