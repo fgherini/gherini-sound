@@ -2,7 +2,7 @@ import './index.scss';
 import AnimatedLetters from '../AnimatedLetters';
 import { useEffect, useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {  faGitAlt, faJsSquare, faReact } from '@fortawesome/free-brands-svg-icons';
+import {  faGithub, faJira, faUnity } from '@fortawesome/free-brands-svg-icons';
 import Loader from 'react-loaders';
 
 
@@ -28,20 +28,20 @@ const About = () => {
                 </h1>
                                 <p>Hey there! My name is Fernando Gherini and I'm a Sound Designer and
                 Music Composer from Brazil with a passion for crafting immersive sound
-                experiences that transport players to new worlds.
-                My sound journey began over 20 years ago, when I've first fell in love with
+                experiences that transport players to new worlds.</p>
+                                <p>My sound journey began over 20 years ago, when I've first fell in love with
                 music and sound listening to Led Zeppelin's second album at my family's
                 record player. Since then, I've played different instruments, worked with a wide
                 range of musical genres, got a Bachelor's Degree in Music Composition and I've
                 been dedicating the last 6 years to refining my skills in designing sounds for
-                games, visual productions and electroacoustic music.
-                I'm skilled in using Wwise and FMOD to implement sound and music in
+                games, visual productions and electroacoustic music.</p>
+                                <p>I'm skilled in using Wwise and FMOD to implement sound and music in
                 Unity and Unreal Engine, and I've worked on a wide variety of game genres -
-                from first-person shooters to puzzle games.
-                When I'm not creating sounds and music, you can usually find me
+                from first-person shooters to puzzle games.</p>
+                                <p>When I'm not creating sounds and music, you can usually find me
                 spending quality time with my feline friends, experimenting with new recipes in
-                the kitchen, or hiking to recharge my creative batteries.
-                Feel free to check my Demo Reels and don't hesitate to contact me! I'm
+                the kitchen, or hiking to recharge my creative batteries.</p>
+                                <p>Feel free to check my Demo Reels and don't hesitate to contact me! I'm
                 always thrilled at the opportunity to talk about games, sound and music!</p>
             </div>
 
@@ -121,16 +121,15 @@ const About = () => {
                         -375 -6z"/>
                         </g>
                     </svg>
-
                     </div>
                     <div className="face4">
-                    <FontAwesomeIcon icon={faReact} color="#5ED4F4" />
+                      <FontAwesomeIcon icon={faUnity} color="#000"/>
                     </div>
                     <div className="face5">
-                    <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" />
+                    <FontAwesomeIcon icon={faGithub} color="#000" />
                     </div>
                     <div className="face6">
-                    <FontAwesomeIcon icon={faGitAlt} color="#EC4D28" />
+                    <FontAwesomeIcon icon={faJira} color="#000" />
                     </div>
                 </div>
             </div>
